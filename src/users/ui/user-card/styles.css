@@ -1,0 +1,22 @@
+.user-card {
+  position: relative;
+  margin-bottom: 32px;
+  padding: 8px 12px;
+  border-bottom: 2px solid #7a7a7a;
+  cursor: pointer;
+  box-sizing: content-box;
+}
+
+.user-card p {
+  margin: 0;
+}
+
+p.user-card-name {
+  font-weight: bold;
+  color: #646df0;
+  margin-bottom: 8px;
+}
+
+.user-card-mail {
+  color: #7a7a7a;
+}

@@ -1,0 +1,9 @@
+.users-filter {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.users-filter-label {
+  margin-right: 16px;
+}

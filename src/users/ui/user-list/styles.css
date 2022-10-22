@@ -1,0 +1,13 @@
+.users-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+span {
+  display: block;
+}
+
+span:last-child {
+  margin-bottom: 32px;
+}
