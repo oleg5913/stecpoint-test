@@ -3,7 +3,6 @@ import './styles.css';
 
 export const UserCard = memo(
   ({ onUserClick, user }) => {
-    console.log('render card');
     return (
       <div
         className="user-card"
